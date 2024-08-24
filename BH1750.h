@@ -4,7 +4,7 @@
 
 
 
-#define  BH1750_address_w          0x43
+#define  BH1750_address_w          0x46
 #define  power_down                0x00
 #define  power_up                  0x01
 //modos operacion
